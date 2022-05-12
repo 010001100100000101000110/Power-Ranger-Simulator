@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1060764427585113018
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4828636071525290391, guid: 4ccb5c579b09a004fbc192c3045274fa, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4828636071525290391, guid: 4ccb5c579b09a004fbc192c3045274fa, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.275
+      objectReference: {fileID: 0}
+    - target: {fileID: 4828636071525290391, guid: 4ccb5c579b09a004fbc192c3045274fa, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.91
+      objectReference: {fileID: 0}
+    - target: {fileID: 4828636071525290391, guid: 4ccb5c579b09a004fbc192c3045274fa, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.52
+      objectReference: {fileID: 0}
+    - target: {fileID: 4828636071525290391, guid: 4ccb5c579b09a004fbc192c3045274fa, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.47924963
+      objectReference: {fileID: 0}
+    - target: {fileID: 4828636071525290391, guid: 4ccb5c579b09a004fbc192c3045274fa, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.5057786
+      objectReference: {fileID: 0}
+    - target: {fileID: 4828636071525290391, guid: 4ccb5c579b09a004fbc192c3045274fa, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.52067345
+      objectReference: {fileID: 0}
+    - target: {fileID: 4828636071525290391, guid: 4ccb5c579b09a004fbc192c3045274fa, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.49336296
+      objectReference: {fileID: 0}
+    - target: {fileID: 4828636071525290391, guid: 4ccb5c579b09a004fbc192c3045274fa, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 1.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 4828636071525290391, guid: 4ccb5c579b09a004fbc192c3045274fa, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 93.087
+      objectReference: {fileID: 0}
+    - target: {fileID: 4828636071525290391, guid: 4ccb5c579b09a004fbc192c3045274fa, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -89.91
+      objectReference: {fileID: 0}
+    - target: {fileID: 5208714510559824685, guid: 4ccb5c579b09a004fbc192c3045274fa, type: 3}
+      propertyPath: m_Name
+      value: MS_Soda_Can (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 4ccb5c579b09a004fbc192c3045274fa, type: 3}

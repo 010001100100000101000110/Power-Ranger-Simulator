@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: 8d7b9f901a6d8e645990da3f3a60ef9d
+  - enabled: 1
+    path: Assets/Scenes/PhoneRing.unity
+    guid: 7779c2fa56a12e24480f8ecba2ff3c09
+  - enabled: 1
+    path: Assets/Scenes/1stTalkScene.unity
+    guid: d1e031f0763eff04683c15c24ca1cd43
+  - enabled: 1
+    path: Assets/Scenes/2ndTalkScene.unity
+    guid: 2e2502a60cf2dac48857d7d89736a679
+  - enabled: 1
+    path: Assets/Scenes/3rdTalkScene.unity
+    guid: 50544c08aaa5eb449bade4b86d740e0c
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 2313aa8aac305cc4796c1ab0a39310b7
+  - enabled: 1
+    path: Assets/Scenes/EndScene.unity
+    guid: 22669e9378970064fb7b59c6921bff2b
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: dd6914ec8bc9db2498ccbe1edbc29b12
+  m_configObjects: {}
